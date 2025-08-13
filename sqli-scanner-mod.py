@@ -7,8 +7,8 @@ print('''\033[92m
  / __|/ _ \| |  |_ _| / __| __ __ _ _ _  _ _  ___ _ _
  \__ \ (_) | |__ | |  \__ \/ _/ _` | ' \| ' \/ -_) '_|
  |___/\__\_\____|___| |___/\__\__,_|_||_|_||_\___|_|
-	coded by R3DHULK
-	Github Page : https://github.com/R3DHULK
+	coded by Pakistani White HAt HAcker Mr Sabaz ali khan 
+	Github Page : https://github.com/whoami592
 ''')
 
 
@@ -118,3 +118,4 @@ except KeyboardInterrupt:
     slowprint("\n [-] Ctrl + C Detected...")
 
 input("\n\033[93m Enter To Exit")
+
